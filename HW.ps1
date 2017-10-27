@@ -1,0 +1,1 @@
+﻿write-host "Hello, .Net Conf Raleigh ($(get-date)) - This is Powershell"
